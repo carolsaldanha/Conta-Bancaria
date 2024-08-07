@@ -1,6 +1,6 @@
 # 💰 Java Banking Account Management
 
-Olá! Bem-vindo ao **Java Banking Account Management**. Este é um exercício do curso de Java Completo ministrado pelo professor Nelio Alves. O objetivo deste projeto é criar um programa para gerenciar contas bancárias, permitindo depósitos e saques, além de fornecer informações da conta utilizando coceitos da programação orientada a objetos.
+Olá! Bem-vindo ao **Java Banking Account Management**. Este é um exercício do curso de Java Completo ministrado pelo professor Nelio Alves. O objetivo deste projeto é criar um programa para gerenciar contas bancárias, permitindo depósitos e saques, além de fornecer informações da conta utilizando conceitos da programação orientada a objetos.
 
 ## 🚀 Funcionalidades
 
